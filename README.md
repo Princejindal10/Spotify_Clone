@@ -6,9 +6,7 @@ A modern, feature-rich music streaming application built with React.js and Mater
 
 ### Core Features
 - **Music Player**: Full-featured music player with play/pause, skip, shuffle, repeat controls
-- **Playlists**: Create, manage, and play music playlists
 - **Search Functionality**: Search for songs, albums, artists, and playlists
-- **Album Support**: Browse and play complete albums
 - **Artist Pages**: Detailed artist profiles with popular tracks and albums
 - **Genre Browsing**: Explore music by different genres
 
